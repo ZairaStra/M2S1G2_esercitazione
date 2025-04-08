@@ -146,7 +146,7 @@ h1 span {
 }
 span img {
   position: absolute;
-  top: 78px;
+  top: 65px;
   right: 0;
   width: 100%;
 }
@@ -469,5 +469,11 @@ footer a {
   }
   .up {
     right: 0;
+  }
+}
+/* segnala a Valeria */
+@media screen and (min-width: 1200px) {
+  section {
+    padding: 60px;
   }
 }
